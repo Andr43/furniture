@@ -348,7 +348,7 @@ flex-direction: column-reverse;
 .about-us__img-main {
   padding-right: 2.516rem;
   padding-bottom: 2.516rem;
-  background: url(/Users/Андрей%20Мусинов/.vscode/Проект/Template6about-us/gray-square-about-us.png) center 1.857rem/1000px 1000px no-repeat;
+  background: url(Template6about-us/gray-square-about-us.png) center 1.857rem/1000px 1000px no-repeat;
 }
 @media (max-width:992px) {
   .about-us__img-main{
@@ -499,7 +499,7 @@ display: none;
 .popular__block-img1:hover{
   cursor: pointer;
 position: relative;
-content: url(/Users/Андрей%20Мусинов/.vscode/Проект/Template6popular/heart-orange-popular.png);
+content: url(Template6popular/heart-orange-popular.png);
 }
 .popular-img {
   background: #FFFFFF;
@@ -554,7 +554,7 @@ white-space: nowrap;
 .popular__block-img3:hover{
   cursor: pointer;
 position: relative;
-content: url(/Users/Андрей%20Мусинов/.vscode/Проект/Template6popular/heart-orange-popular.png);
+content: url(Template6popular/heart-orange-popular.png);
 }
 .popular__block-img4 {
   width: 1.857rem;
@@ -582,7 +582,7 @@ background: #FFFFFF;
 .popular__block-img5:hover{
   cursor: pointer;
 position: relative;
-content: url(/Users/Андрей%20Мусинов/.vscode/Проект/Template6popular/heart-orange-popular.png);
+content: url(Template6popular/heart-orange-popular.png);
 }
 .popular__block-img6 {
   width: 1.857rem;
@@ -627,7 +627,7 @@ display: none;
 .furniture__shop1:focus{
   color: #154444;
   font-weight: 600;
-background: url(/Users/Андрей%20Мусинов/.vscode/Проект/Template6furniture/line-furniture.png) 3.928rem bottom no-repeat; 
+background: url(Template6furniture/line-furniture.png) 3.928rem bottom no-repeat; 
 }
 .furniture__shop2 {
   margin-left: 0;
@@ -637,7 +637,7 @@ background: url(/Users/Андрей%20Мусинов/.vscode/Проект/Templa
 .furniture__shop2:focus{
   color: #154444;
   font-weight: 600;
-background: url(/Users/Андрей%20Мусинов/.vscode/Проект/Template6furniture/line-furniture.png) 4.071rem bottom no-repeat; 
+background: url(Template6furniture/line-furniture.png) 4.071rem bottom no-repeat; 
 }
 .furniture__shop3 {
   margin-left: 0;
@@ -646,7 +646,7 @@ background: url(/Users/Андрей%20Мусинов/.vscode/Проект/Templa
 .furniture__shop3:focus{
   color: #154444;
   font-weight: 600;
-background: url(/Users/Андрей%20Мусинов/.vscode/Проект/Template6furniture/line-furniture.png) 3.928rem bottom no-repeat; 
+background: url(Template6furniture/line-furniture.png) 3.928rem bottom no-repeat; 
 }
 .furniture__content {
   display: flex;
@@ -655,7 +655,7 @@ background: url(/Users/Андрей%20Мусинов/.vscode/Проект/Templa
 .furniture__img-main {
   margin-left: 0;
  padding: 0.714rem;
-  background: url(../Template6furniture/rectangle-furniture.png) no-repeat, url(../Template6furniture/rectangle-furniture.png) right bottom no-repeat;
+  background: url(Template6furniture/rectangle-furniture.png) no-repeat, url(Template6furniture/rectangle-furniture.png) right bottom no-repeat;
 }
 .furniture__blocks {
   display: flex;
@@ -785,7 +785,7 @@ display: none;
 }
 .customers__img-main {
   padding-left: 7.5rem;
-  background: url(../Template6customers/ellipse.png) center left/ 35.071rem 35.071rem no-repeat;
+  background: url(Template6customers/ellipse.png) center left/ 35.071rem 35.071rem no-repeat;
 }
 .customers__content {
   margin: 7.5rem 0 0 0;
@@ -872,7 +872,7 @@ margin-bottom: 2.857rem;
 .subscribe__email {
 padding-left: 3.214rem;
   display: block;
-  background: url(../Template6subscribe/email.png) no-repeat 15px 0;
+  background: url(Template6subscribe/email.png) no-repeat 15px 0;
 }
 .subscribe__button {
   background: #305F64;
